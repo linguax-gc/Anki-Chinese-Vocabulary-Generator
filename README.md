@@ -36,6 +36,7 @@ hanziconv
 googletrans
 git+https://github.com/DeepHorizons/tts
 ```
+Install latest version ```googletrans==4.0.0rc1```.
 
 5. Run ```main.py``` and start adding words
 
@@ -63,7 +64,7 @@ gTTS
 pinyin
 pycedict
 hanziconv
-googletrans
+googletrans==4.0.0rc1
 ```
 Command to install
 ```
@@ -85,7 +86,7 @@ gTTS
 pinyin
 pycedict
 hanziconv
-googletrans
+googletrans==4.0.0rc1
 ```
 4. Download this keyboard [搜狗输入法 sōugǒu shūrù fǎ sogou Input](https://play.google.com/store/apps/details?id=com.sohu.inputmethod.sogou) from play store
 <br/>**Note: Other keyboard will not help in typing chinese characters** 
